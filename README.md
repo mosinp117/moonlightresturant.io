@@ -1,1 +1,1 @@
-# This is resturant web application created in django 
+This is resturant web application created in django 
